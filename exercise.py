@@ -51,11 +51,20 @@
 # print("Sum =", sum)
 
 
+
+
+# n = 5
+# sum = 0
+# for num in range(n+1):
+#     sum += num
+# print("Sum =", sum)
+
+
 # ######################################
 # ### Task 4
 # ######################################
 
-# # 4.1
+# 4.1
 # for x in range(3):
 #     print(x)
 # #4.2 
@@ -66,9 +75,9 @@
 # while x > 0:
 #     print(x)
 #     x -= 1
-# #4.4
-# countdown = 5
-# while countdown:
+#4.4
+# # countdown = 5
+# while countdown :
 #     print(f"{countdown}")
 #     countdown -= 1
 # else:
@@ -95,6 +104,18 @@
 # ### Task 6
 # ######################################
     
+
+
+# x = int(input("First number: "))
+# y = int(input("Second number: "))
+
+# result = x + y
+
+# if result >= 15 and result <= 20:
+#     result = 20
+# print("Calculated sum is ",result)
+
+
 # x = int(input("First number: "))
 # y = int(input("Second number: "))
 
